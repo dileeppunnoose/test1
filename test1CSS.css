@@ -1,0 +1,54 @@
+.container { 
+background-color:orange; 
+box-shadow:1px 2px 1px black; text-align: center; 
+}
+.NavigationMenu {
+background-color:orange; 
+box-shadow:1px 2px 1px black;
+      }
+.NavigationMenu ul{
+    background:blue;
+    width: 100%;
+    }
+
+.NavigationMenu ul li{
+    float: right;
+    width: 10%;
+    background: cyan;
+    list-style: none;
+    color: white;
+    }
+/*table{
+ width: 100%;
+}*/
+
+#id{ 
+background:linear-gradient(to left, cyan,cyan); 
+} 
+ H2{color: rgb(0, 204, 255); 
+background: rgba(0,0,0); 
+text-align: left; 
+text-shadow: 1px 1px 1px darkblue; 
+} 
+ 
+H1{color: #ffffff; 
+text-shadow: 1px 1px 2px black; 
+} 
+ 
+/*.square{ 
+width: 100px; 
+height:100px; 
+background-color:blue; 
+margin:auto; 
+} */
+ 
+#Greeting{ 
+color: black;
+    font-size: 25;
+    background: rgb (0,0,0,0);
+    width: 100%;
+} 
+ 
+.YoutubeWindow{ 
+box-shadow:3px 5px 3px black; 
+} 
